@@ -24,7 +24,7 @@ github_username:  wyoc
 
 # Build settings
 markdown: kramdown
-theme:      tale
+theme:      jekyll-theme-minimal
 permalink:  /:year-:month-:day/:title
 paginate:   5
 plugins:
